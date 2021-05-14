@@ -1,3 +1,4 @@
+<br />
 <div align="center">
   
 <a href="mailto:adriel.souza397@gmail.com">
@@ -11,4 +12,5 @@
 <a href="https://www.instagram.com/adriel.medeiros/">
   <img align="left" alt="Adriel's Instagram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/408/408707.svg?token=exp=1620951450~hmac=820742b4ac6a494c19827ebabe07a3ef" />
 </a>
-
+<br/>
+</div>
