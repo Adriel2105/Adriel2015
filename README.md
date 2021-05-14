@@ -5,10 +5,10 @@
 </a>
   
 <a href="https://www.linkedin.com/in/adriel-medeiros-a69b03128/">
-  <img align="left" alt="Adriel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Adriel's LinkedIN" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384889.svg?token=exp=1620951119~hmac=73112557159eb4bc151ec3f8c5404d31" />
 </a>
 
 <a href="https://www.instagram.com/adriel.medeiros/">
-  <img align="left" alt="Adriel's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
+  <img align="left" alt="Adriel's Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/408/408707.svg?token=exp=1620951450~hmac=820742b4ac6a494c19827ebabe07a3ef" />
 </a>
 
