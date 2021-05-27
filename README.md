@@ -5,7 +5,7 @@
 <div align="center">
   
 <a href="mailto:adriel.souza397@gmail.com">
-<img align="left" alt="Adriel's Gmail" height="30px" src="https://img-premium.flaticon.com/png/512/281/281786.png?token=exp=1621468506~hmac=10a392d55f7ac4ee9fc9c87925226901"/>
+<img align="left" alt="Adriel's Gmail" height="30px" src="https://image.flaticon.com/icons/png/512/324/324123.png"/>
 </a>
   
 <a href="https://www.linkedin.com/in/adriel-medeiros-a69b03128/">
