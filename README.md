@@ -28,7 +28,7 @@
   
 ##
   
-### Estou estudando 👨🏻‍🎓
+### Estou estudando 🧠
 <div>
   <img align="center" alt="Adriel-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>
   <img align="center" alt="Adriel-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
