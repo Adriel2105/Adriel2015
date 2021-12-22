@@ -36,6 +36,7 @@
   <img align="center" alt="Adriel-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
   <img align="center" alt="Adriel-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img align="center" alt="Adriel-PowerBI" height="40" width="40"  src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+   <img align="center" alt="Adriel-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
   <img align="center" alt="Adriel-Wordpress" height="40" width="40"  src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 </div>
   
@@ -48,7 +49,6 @@
   <img align="center" alt="Adriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img align="center" alt="Adriel-D3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"/>
   <img align="center" alt="Adriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Adriel-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
   <img align="center" alt="Adriel-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" alt="Adriel-Doker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
   <img align="center" alt="Adriel-Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/>
