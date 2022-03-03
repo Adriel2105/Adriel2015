@@ -35,6 +35,7 @@
   <img align="center" alt="Adriel-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>
   <img align="center" alt="Adriel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Adriel-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+  <img align="center" alt="Adriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" alt="Adriel-PowerBI" height="40" width="40"  src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img align="center" alt="Adriel-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
   <img align="center" alt="Adriel-Wordpress" height="40" width="40"  src="https://img.icons8.com/color/48/000000/wordpress.png"/>
@@ -46,7 +47,6 @@
 ### Tenho interesse 👨‍💻
   
 <div>
-  <img align="center" alt="Adriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" alt="Adriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img align="center" alt="Adriel-D3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"/>
   <img align="center" alt="Adriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
