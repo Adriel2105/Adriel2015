@@ -1,15 +1,7 @@
 # Olá! Eu sou o Adriel Medeiros. <img align="center" alt="Adriel-Logo" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/849/849987.png"/> 
-<div align="center">
+<!-- <div align="center">
   <img align="center" alt="gif" src="https://media.giphy.com/media/V1wiixQS9Nuw0/giphy.gif?cid=ecf05e47o26lxyytz515rf3nfpjb4dpvleqgp7q596wonuez&rid=giphy.gif&ct=g"/>
-</div>
-
-<br></br>
-
- <div align="center">
-  <a href="https://github.com/medriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medriel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medriel&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+</div> -->
 
   ### Já trabalhei com 🧑‍💻
   
@@ -53,6 +45,14 @@
   <img align="center" alt="Adriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Adriel-Doker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
   <img align="center" alt="Adriel-Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/>
+</div>
+  
+  ##
+  
+  <div align="center">
+  <a href="https://github.com/medriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medriel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medriel&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   ##
