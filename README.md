@@ -28,6 +28,7 @@
   <img align="center" alt="Adriel-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
   <img align="center" alt="Adriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
    <img align="center" alt="Adriel-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Adriel-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
   <img align="center" alt="Adriel-PowerBI" height="40" width="40"  src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img align="center" alt="Adriel-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
   <img align="center" alt="Adriel-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
