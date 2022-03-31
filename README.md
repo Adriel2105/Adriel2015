@@ -42,6 +42,7 @@
   <img align="center" alt="Adriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img align="center" alt="Adriel-D3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"/>
   <img align="center" alt="Adriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Adriel-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"/>
   <img align="center" alt="Adriel-Doker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
   <img align="center" alt="Adriel-Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/>
 </div>
