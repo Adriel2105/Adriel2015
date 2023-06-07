@@ -13,6 +13,7 @@
   <img align="center" alt="Adriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Adriel-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
   <img align="center" alt="Adriel-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img align="center" alt="Adriel-Jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
   <img align="center" alt="Adriel-Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
   <img align="center" alt="Adriel-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="Adriel-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
@@ -40,7 +41,6 @@
 ### Tenho interesse 🕵🏻‍♂️
   
 <div>
-  <img align="center" alt="Adriel-Jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
   <img align="center" alt="Adriel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Adriel-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" alt="Adriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
