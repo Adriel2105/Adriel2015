@@ -38,9 +38,9 @@
 
 <br/>
 
-<div align="center">
+<!--<div align="center">
     <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b528930a49b0be0ed5154f?variant=dark" alt="roadmap.sh"/></a>
-</div>
+</div>-->
 
 ##
   
