@@ -36,6 +36,10 @@
   <img align="center" alt="Adriel-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />   
 </div>
 
+<div align="center">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b528930a49b0be0ed5154f?variant=dark" alt="roadmap.sh"/></a>
+</div>
+
 ##
   
 ### Tenho interesse 🕵🏻‍♂️
